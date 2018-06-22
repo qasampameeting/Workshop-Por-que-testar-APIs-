@@ -1,4 +1,9 @@
-# Workshop-Por-que-testar-APIs-
+# Workshop Por que testar APIs
+
+## Apresentadores
+- [Samuel Pereira](https://www.linkedin.com/in/samuelpereira-qa/)
+- [Nathanael Araújo](https://www.linkedin.com/in/nathanaelaraujo/)
+
 
 Dia 26/04/2018 foi dia de testar APIs no QA Sampa! Saiba mais no nosso post do Medium [Como foi o Workshop - Por que testar APIs?](https://medium.com/qa-sampa-meeting/como-foi-o-workshop-por-que-testar-apis-29ed3c5f5475). Todos os linka abaixo também estão no artigo, contextualizados.
 
